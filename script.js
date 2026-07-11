@@ -1,1 +1,1 @@
-console.log('Happy Birthday Nimi!');
+function celebrate(){const icons=['🎉','✨','💖','🎂','🎈','🌸'];for(let i=0;i<80;i++){let e=document.createElement('span');e.className='piece';e.textContent=icons[Math.floor(Math.random()*icons.length)];e.style.left=Math.random()*100+'vw';e.style.animationDelay=Math.random()*2+'s';e.style.animationDuration=(3+Math.random()*3)+'s';document.body.appendChild(e);setTimeout(()=>e.remove(),7000)}}
