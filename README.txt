@@ -1,0 +1,1 @@
+Place your photos here and rename them to photo1.jpg, photo2.jpg and photo3.jpg
