@@ -1,2 +1,0 @@
-# Evenim
-A personal web
